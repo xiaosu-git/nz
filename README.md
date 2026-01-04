@@ -86,6 +86,7 @@
 ├── main.conf                     # 主配置文件
 ├── ssl.conf.template             # SSL 配置模板
 ├── index.html                    # 伪装页面
+├── 一步一步照着做教程.md           # 保姆级教程文档
 └── README.md                     # 项目文档
 ```
 
